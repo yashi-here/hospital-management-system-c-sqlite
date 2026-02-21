@@ -1,0 +1,9 @@
+# Compiled files
+*.exe
+
+# Database files (optional)
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
